@@ -5,7 +5,7 @@ A privacy-first web application for analyzing Instagram follower relationships w
 **Version:** 1.0.0  
 **Language:** HTML5, CSS3, JavaScript ES6+  
 **License:** MIT  
-**Live Demo:** [sousafonso.github.io/instagram-analyzer](https://sousafonso.github.io/Unfollowers/)
+**Live Demo:** [sousafonso.github.io/Unfollowers](https://sousafonso.github.io/Unfollowers/)
 
 ---
 
@@ -34,7 +34,7 @@ Instagram Analyzer Pro is a **100% client-side web application** that processes 
 
 ### Option 1: Use the Live Version (Easiest)
 
-Simply visit: **[https://sousafonso.github.io/instagram-analyzer/](https://sousafonso.github.io/instagram-analyzer/)**
+Simply visit: **[https://sousafonso.github.io/Unfollowers/](https://sousafonso.github.io/Unfollowers/)**
 
 No installation needed. Works directly in your browser.
 
@@ -42,8 +42,8 @@ No installation needed. Works directly in your browser.
 
 ```bash
 # 1. Clone or fork this repository
-git clone https://github.com/yourusername/instagram-analyzer.git
-cd instagram-analyzer
+git clone https://github.com/yourusername/Unfollowers.git
+cd Unfollowers
 
 # 2. Ensure the main file is named index.html
 mv instagram_analyzer.html index.html
@@ -55,18 +55,18 @@ git push origin main
 
 # 4. Enable GitHub Pages in repository settings
 # Settings → Pages → Source: Deploy from a branch (main)
-# Your site will be live at: https://yourusername.github.io/instagram-analyzer/
+# Your site will be live at: https://yourusername.github.io/Unfollowers/
 ```
 
 ### Option 3: Run Locally (For Development)
 
 ```bash
 # Option 3a: Direct file
-open instagram_analyzer.html
+open Unfollowers/index.html
 
 # Option 3b: Local Python server (recommended)
 python3 -m http.server 8000
-# Visit: http://localhost:8000/instagram_analyzer.html
+# Visit: http://localhost:8000/Unfollowers/index.html
 
 # Option 3c: Node.js (if you have it installed)
 npx http-server
