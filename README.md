@@ -556,8 +556,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ### Getting Help
 
 - **Documentation:** See [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md) for in-depth technical details
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/instagram-analyzer/issues)
-- **Discussions:** [Ask questions and share ideas](https://github.com/yourusername/instagram-analyzer/discussions)
+- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/Unfollowers/issues)
+- **Discussions:** [Ask questions and share ideas](https://github.com/yourusername/Unfollowers/discussions)
 
 ### Found a Bug?
 
@@ -591,9 +591,9 @@ Please create an issue with:
 
 ## 🔗 Quick Links
 
-- **Live App:** [https://sousafonso.github.io/instagram-analyzer/](https://sousafonso.github.io/instagram-analyzer/)
-- **GitHub Repository:** [github.com/sousafonso/instagram-analyzer](https://github.com/sousafonso/instagram-analyzer)
-- **Issues & Features:** [GitHub Issues](https://github.com/sousafonso/instagram-analyzer/issues)
+- **Live App:** [https://sousafonso.github.io/Unfollowers/](https://sousafonso.github.io/Unfollowers/)
+- **GitHub Repository:** [github.com/sousafonso/Unfollowers](https://github.com/sousafonso/Unfollowers)
+- **Issues & Features:** [GitHub Issues](https://github.com/sousafonso/Unfollowers/issues)
 - **Technical Docs:** [TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md)
 
 ---
