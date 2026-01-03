@@ -5,7 +5,7 @@ A privacy-first web application for analyzing Instagram follower relationships w
 **Version:** 1.0.0  
 **Language:** HTML5, CSS3, JavaScript ES6+  
 **License:** MIT  
-**Live Demo:** [sousafonso.github.io/instagram-analyzer](https://sousafonso.github.io/instagram-analyzer/)
+**Live Demo:** [sousafonso.github.io/instagram-analyzer](https://sousafonso.github.io/Unfollowers/)
 
 ---
 
